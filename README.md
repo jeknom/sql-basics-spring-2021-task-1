@@ -1,4 +1,4 @@
-> Helsinki University SQL Basics Spring 2021
+# Helsinki University SQL Basics Spring 2021
 
 This repo contains the first assignment for the course. It's a console app that does SQL queries on a database that was
 provided by the school.
