@@ -1,0 +1,15 @@
+{
+  "name": "kurssisuoritukset",
+  "version": "1.0.0",
+  "description": "Helsinki University SQL course assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Johannes Palvanen",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "sqlite3": "^5.0.2"
+  }
+}
