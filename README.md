@@ -3,6 +3,8 @@
 This repo contains the first assignment for the course. It's a console app that does SQL queries on a database that was
 provided by the school.
 
+Source of course material: https://tikape.mooc.fi/kevat-2021/
+
 Instructions for the assignment in finnish:
 
 ```
